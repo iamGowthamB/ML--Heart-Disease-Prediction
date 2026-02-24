@@ -1,7 +1,7 @@
 [theme]
 base="light"
-primaryColor="#ff4b4b"
+primaryColor="#0EA5E9"  # corporate sky blue
 backgroundColor="#ffffff"
 secondaryBackgroundColor="#f0f2f6"
-textColor="#262730"
+textColor="#1E293B"
 font="sans serif"
